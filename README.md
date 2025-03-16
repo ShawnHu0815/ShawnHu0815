@@ -6,29 +6,29 @@
 
 <div style="margin: 20px 0;">
   <!-- 教育背景 -->
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <span style="font-size: 20px; margin-right: 8px;">🎓</span>
     <span style="font-weight: bold; margin-right: 4px;">教育背景：</span>
     <a href="https://www.fudan.edu.cn/" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-      <img src="images/复旦蓝色校徽(白底).png" alt="复旦大学LOGO" width="20" height="20" style="margin: 0 4px;"/>
+      <img src="images/复旦蓝色校徽(白底).png" alt="复旦大学LOGO" width="20" height="20" style="margin: 0 4px; vertical-align: middle; transform: translateY(5px);"/>
       <span>复旦大学</span>
     </a>
     <span style="margin-left: 4px;">软件工程专业就读，预计2026年6月毕业</span>
   </div>
 
   <!-- 职业经历 -->
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <span style="font-size: 20px; margin-right: 8px;">🏢</span>
     <span style="font-weight: bold; margin-right: 4px;">职业经历：</span>
     <a href="https://www.lilithgames.com/" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-      <img src="images/lilithLOGO.png" alt="莉莉丝游戏LOGO" width="20" height="20" style="margin: 0 4px;"/>
+      <img src="images/lilithLOGO.png" alt="莉莉丝游戏LOGO" width="20" height="20" style="margin: 0 4px; vertical-align: middle; transform: translateY(5px);"/>
       <span>莉莉丝游戏</span>
     </a>
     <span style="margin-left: 4px;">测试开发实习生（2025.02 - 至今）</span>
   </div>
 
   <!-- 开发项目 -->
-  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <span style="font-size: 20px; margin-right: 8px;">🎮</span>
     <span style="font-weight: bold; margin-right: 4px;">正在开发项目：</span>
     <a href="https://github.com/ShawnHu0815/Unity-PJ3-KunkunFly" style="text-decoration: none; color: inherit;">坤坤勇敢飞 KunkunFly Demo</a>
@@ -36,7 +36,7 @@
   </div>
 
   <!-- 游戏玩家 -->
-  <div style="display: flex; align-items: center;">
+  <div style="display: flex; align-items: center; margin-bottom: 20px;">
     <span style="font-size: 20px; margin-right: 8px;">🕹️</span>
     <span style="font-weight: bold; margin-right: 4px;">深度游戏玩家：</span>
     <span>Steam 8000h+，Switch 300h+， DOTA2 骨灰级玩家 4000h+</span>
