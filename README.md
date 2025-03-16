@@ -7,6 +7,7 @@
 ### 🎓 教育背景
 **软件工程 · [复旦大学](https://www.fudan.edu.cn/)**  
 `2022.09 - 2026.06（预计毕业）`  
+
 - 主修课程：数据结构与算法、计算机图形学 
 
 ---
@@ -75,7 +76,7 @@
 ---
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=shawnhu0815&show_icons=true&theme=dark&locale=en&layout=compact&card_width=320" alt="技术栈统计" />
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=shawnhu0815&show_icons=true&theme=dark&locale=en&hide=contribs" alt="贡献统计" />
   </div>
@@ -87,6 +88,6 @@
 - 📧 **邮箱**: xiaoyanghu18@fudan.edu.cn  
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=shawnhu0815&label=Profile Views&color=0e75b6&style=flat" alt="访问统计" /> 
+  <img src="https://komarev.com/ghpvc/?username=shawnhu0815&label=ProfileViews&color=0e75b6&style=flat" alt="访问统计" /> 
   <img src="https://img.shields.io/github/followers/shawnhu0815?label=Follow&style=social" alt="GitHub关注" />
 </p>
