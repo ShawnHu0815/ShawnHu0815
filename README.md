@@ -24,14 +24,14 @@
     </td>
   </tr>
   <tr>
-    <td width="140px" align="left">🎮<b>正在开发项目：</b></td>
+    <td width="140px" align="left">🎮<b>开发项目：</b></td>
     <td>
       <a href="https://github.com/ShawnHu0815/Unity-PJ3-KunkunFly">坤坤勇敢飞 KunkunFly Demo</a>
       基于Unity 2D物理引擎的横版跳跃游戏，实现角色动态碰撞检测与跳跃机制
     </td>
   </tr>
   <tr>
-    <td width="140px" align="left">🕹️<b>深度游戏玩家：</b></td>
+    <td width="140px" align="left">🕹️<b>游戏玩家：</b></td>
     <td>Steam 8000h+，Switch 300h+，DOTA2 骨灰级玩家 4000h+</td>
   </tr>
 </table>
