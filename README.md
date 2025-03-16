@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td width="100px" align="left">🎓<b>教育背景：</b></td>
+    <td width="120px" align="left">🎓<b>教育背景：</b></td>
     <td>
       <a href="https://www.fudan.edu.cn/">
         <img src="images/复旦蓝色校徽(白底).png" alt="复旦大学LOGO" width="20" height="20" align="center"/> 复旦大学
@@ -15,7 +15,7 @@
     </td>
   </tr>
   <tr>
-    <td width="100px" align="left">🏢<b>职业经历：</b></td>
+    <td width="120px" align="left">🏢<b>职业经历：</b></td>
     <td>
       <a href="https://www.lilithgames.com/">
         <img src="images/lilithLOGO.png" alt="莉莉丝游戏LOGO" width="20" height="20" align="center"/> 莉莉丝游戏
@@ -24,14 +24,14 @@
     </td>
   </tr>
   <tr>
-    <td width="100px" align="left">🎮<b>开发项目：</b></td>
+    <td width="120px" align="left">🎮<b>开发项目：</b></td>
     <td>
       <a href="https://github.com/ShawnHu0815/Unity-PJ3-KunkunFly">坤坤勇敢飞 KunkunFly Demo</a>
       基于Unity 2D物理引擎的横版跳跃游戏，实现角色动态碰撞检测与跳跃机制
     </td>
   </tr>
   <tr>
-    <td width="100px" align="left">🕹️<b>游戏玩家：</b></td>
+    <td width="120px" align="left">🕹️<b>游戏玩家：</b></td>
     <td>Steam 8000h+，Switch 300h+，DOTA2 骨灰级玩家 4000h+</td>
   </tr>
 </table>
