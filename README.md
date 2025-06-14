@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello，我是胡晓阳 Shwan Hu </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-**一名正在学习游戏开发的程序员，狂热的游戏爱好者，目前正在游戏公司实习。感兴趣的领域：Unity 游戏开发。**
+**一名正在学习游戏开发的程序员，狂热的游戏爱好者，目前正在游戏公司实习。**
 
 ---
 
@@ -20,7 +20,11 @@
       <a href="https://www.lilithgames.com/">
         <img src="images/lilithLOGO.png" alt="莉莉丝游戏LOGO" width="20" height="20" align="center"/> 莉莉丝游戏
       </a>
-      测试开发实习生（2025.02 - 至今）
+      测试开发实习生（2025.02 - 2025.05）<br>
+      <a href="https://www.nvsgames.cn/">
+        <img src="images/ByteDance.png" alt="字节跳动 朝夕光年" width="59" height="15" align="center"/> 字节跳动 朝夕光年
+      </a>
+      游戏客户端开发实习生（2025.05 - 至今）
     </td>
   </tr>
   <tr>
@@ -51,8 +55,10 @@
     </div>
     <div style="flex: 1;">
       <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="margin: 5px"/>
+      <img src="https://img.shields.io/badge/Unreal_Engine-472583?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="UE" style="margin: 5px"/>
       <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider" style="margin: 5px"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin: 5px"/>
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Jenkins-D24929?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" style="margin: 5px;"/>
     </div>
   </div>
@@ -60,6 +66,7 @@
   <div style="display: flex; margin-bottom: 20px;">
     <div style="flex: 1;">
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="margin: 5px"/>
+      <img src="https://img.shields.io/badge/SVN-000000?style=for-the-badge&logo=subversion&logoColor=white" alt="SVN" style="margin: 5px"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 5px"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="margin: 5px"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="margin: 5px"/>

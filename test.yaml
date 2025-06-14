@@ -1,0 +1,46 @@
+#---------------------------------------------------#
+# 配置文件需要放置在 $HOME/.config/clash/*.yaml
+#
+# 这份文件是clashX的基础配置文件，请尽量新建配置文件进行修改。
+# ！！！只有这份文件的端口设置会随ClashX启动生效
+#
+# 如果您不知道如何操作，请参阅 官方Github文档 https://github.com/Dreamacro/clash/blob/dev/README.md
+#---------------------------------------------------#
+
+# 基础配置
+mixed-port: 7890
+external-controller: 172.0.0.1:9090
+allow-lan: false
+mode: rule
+log-level: warning
+ipv6: false
+
+# 代理配置
+proxies:
+  - name: MS-Azure
+    type: ssr
+    server: 40.79.79.238
+    port: 8082
+    password: 1234
+    cipher: aes-256-cfb
+    protocol: auth_aes128_md5
+    obfs: plain
+
+# 代理组配置
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - DIRECT
+      - MS-Azure
+
+# 规则配置
+rules:
+  - DOMAIN-SUFFIX,google.com,Proxy
+  - DOMAIN-KEYWORD,google,Proxy
+  - DOMAIN,google.com,Proxy
+  - DOMAIN-SUFFIX,chat.openai.com,Proxy
+  - DOMAIN-KEYWORD,openai.com,Proxy
+  - DOMAIN-SUFFIX,ad.com,REJECT
+  - GEOIP,CN,DIRECT
+  - MATCH,DIRECT
