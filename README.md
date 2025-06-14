@@ -22,9 +22,9 @@
       </a>
       测试开发实习生（2025.02 - 2025.05）<br>
       <a href="https://www.nvsgames.cn/">
-        <img src="images/ByteDance.png" alt="字节跳动 朝夕光年" width="59" height="15" align="center"/> 字节跳动 朝夕光年
+        <img src="images/ByteDance.png" alt="字节跳动" width="59" height="15" align="center"/> 字节跳动
       </a>
-      游戏客户端开发实习生（2025.05 - 至今）
+      朝夕光年 游戏客户端开发实习生（2025.05 - 至今）
     </td>
   </tr>
   <tr>
