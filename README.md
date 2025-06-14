@@ -22,7 +22,7 @@
       </a>
       测试开发实习生（2025.02 - 2025.05）<br>
       <a href="https://www.nvsgames.cn/">
-        <img src="images/ByteDance.png" alt="字节跳动" width="59" height="15" align="center"/> 字节跳动
+        <img src="images/ByteDance.png" alt="字节跳动" width="59" height="15" align="center"/>字节跳动
       </a>
       朝夕光年 游戏客户端开发实习生（2025.05 - 至今）
     </td>
@@ -52,10 +52,10 @@
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="margin: 5px;"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin: 5px"/>
       <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" style="margin: 5px"/>
-    </div>
-    <div style="flex: 1;">
       <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" style="margin: 5px"/>
       <img src="https://img.shields.io/badge/Unreal_Engine-472583?style=for-the-badge&logo=unreal-engine&logoColor=white" alt="UE" style="margin: 5px"/>
+    </div>
+    <div style="flex: 1;">
       <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="Rider" style="margin: 5px"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" style="margin: 5px"/>
       <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" style="margin: 5px;"/>
