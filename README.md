@@ -6,25 +6,29 @@
 
 <table>
   <tr>
+    <td width="120px" align="left">🏢<b>职业经历：</b></td>
+    <td>
+      <a href="https://timi.qq.com/">
+        <img src="images/Tencent.png" alt="腾讯游戏" width="" height="22" align="center"/>腾讯游戏
+      </a>  
+       天美工作室 游戏客户端开发（2025.12 - 至今）<br>
+      <a href="https://www.nvsgames.cn/">
+        <img src="images/ByteDance.png" alt="字节跳动" width="17" height="17" align="center"/> 字节跳动
+      </a>
+       朝夕光年 游戏客户端开发实习生（2025.05 - 2025.12）<br>
+      <a href="https://www.lilithgames.com/">
+        <img src="images/lilithLOGO.png" alt="莉莉丝游戏LOGO" width="20" height="20" align="center"/> 莉莉丝游戏
+      </a>
+      测试开发实习生（2025.02 - 2025.05）<br> 
+    </td>
+  </tr>
+  <tr>
     <td width="120px" align="left">🎓<b>教育背景：</b></td>
     <td>
       <a href="https://www.fudan.edu.cn/">
         <img src="images/复旦蓝色校徽(白底).png" alt="复旦大学LOGO" width="20" height="20" align="center"/> 复旦大学
       </a>
       软件工程专业就读，预计2026年6月毕业
-    </td>
-  </tr>
-  <tr>
-    <td width="120px" align="left">🏢<b>职业经历：</b></td>
-    <td>
-      <a href="https://www.lilithgames.com/">
-        <img src="images/lilithLOGO.png" alt="莉莉丝游戏LOGO" width="20" height="20" align="center"/> 莉莉丝游戏
-      </a>
-      测试开发实习生（2025.02 - 2025.05）<br>
-      <a href="https://www.nvsgames.cn/">
-        <img src="images/ByteDance.png" alt="字节跳动" width="17" height="17" align="center"/> 字节跳动
-      </a>
-      朝夕光年 游戏客户端开发实习生（2025.05 - 至今）
     </td>
   </tr>
   <tr>
@@ -83,8 +87,7 @@
 ---
 
 ### 📬 联系方式
-- 📧 **邮箱**: xiaoyanghu18@fudan.edu.cn  
-- 📱 **微信**: hu979293340
+- 📧 **邮箱**: xiaoyanghu18@fudan.edu.cn
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shawnhu0815&label=ProfileViews&color=0e75b6&style=flat" alt="访问统计" /> 
